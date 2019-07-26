@@ -9,4 +9,4 @@
 - sudo apt-get install libmysqlclient-dev
 
 # link video Tutorial
-#- https://www.youtube.com/watch?v=IgCfZkR8wME&t=146s
+ https://www.youtube.com/watch?v=IgCfZkR8wME&t=146s
